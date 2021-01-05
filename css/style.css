@@ -875,3 +875,6 @@ blockquote cite {
 blockquote cite:before {
 	content: "\2014 \2009";
 }
+.round{
+	border-radius: 50%;
+}
